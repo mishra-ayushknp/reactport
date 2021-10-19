@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactport/static/css/main.508888bb.chunk.css",
+    "main.js": "/reactport/static/js/main.e2991b65.chunk.js",
+    "main.js.map": "/reactport/static/js/main.e2991b65.chunk.js.map",
+    "runtime-main.js": "/reactport/static/js/runtime-main.72d3e22a.js",
+    "runtime-main.js.map": "/reactport/static/js/runtime-main.72d3e22a.js.map",
+    "static/css/2.a2bc7d03.chunk.css": "/reactport/static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.f82a7192.chunk.js": "/reactport/static/js/2.f82a7192.chunk.js",
+    "static/js/2.f82a7192.chunk.js.map": "/reactport/static/js/2.f82a7192.chunk.js.map",
+    "index.html": "/reactport/index.html",
+    "static/css/2.a2bc7d03.chunk.css.map": "/reactport/static/css/2.a2bc7d03.chunk.css.map",
+    "static/css/main.508888bb.chunk.css.map": "/reactport/static/css/main.508888bb.chunk.css.map",
+    "static/js/2.f82a7192.chunk.js.LICENSE.txt": "/reactport/static/js/2.f82a7192.chunk.js.LICENSE.txt",
+    "static/media/b3.3d7a43d1.jpg": "/reactport/static/media/b3.3d7a43d1.jpg",
+    "static/media/index.css": "/reactport/static/media/portfolio-background.f5d38ec5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72d3e22a.js",
+    "static/css/2.a2bc7d03.chunk.css",
+    "static/js/2.f82a7192.chunk.js",
+    "static/css/main.508888bb.chunk.css",
+    "static/js/main.e2991b65.chunk.js"
+  ]
+}
